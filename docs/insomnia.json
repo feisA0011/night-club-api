@@ -655,7 +655,7 @@
       "_id": "env_a594ba11b56643e786078f7049938845",
       "color": "#00ff00",
       "created": 1579633905531,
-      "data": { "base_url": "https://apijuk.herokuapp.com/" },
+      "data": { "base_url": "https://apijuk.herokuapp.com" },
       "dataPropertyOrder": { "&": ["base_url"] },
       "isPrivate": false,
       "metaSortKey": 1579633905531,
